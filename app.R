@@ -1,7 +1,7 @@
 library(shinydashboard)
 library(ggplot2)
 library(reshape)
-source("Data/global.R")
+source("global.R")
 
 
 ui <- dashboardPage(
