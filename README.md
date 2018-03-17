@@ -1,1 +1,17 @@
 # BasketStatWomen
+
+This is a simple shiny app for personal use (at the moment) showing some statistics for Women's 1st Basketball Division in Greece.
+
+## Installation
+
+The following packages are required:
+* "shiny"
+* "shinydashboard"
+* "ggplot2"
+* "reshape"
+
+Can be installed like this: install.packages(c("shiny", "shinydashboard", "ggplot2", "reshape"))
+
+
+## Running
+To run the app localy: shiny::runGitHub("dfimerel/BasketStatWomen")
