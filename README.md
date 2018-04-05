@@ -8,9 +8,9 @@ The following packages are required:
 * "shiny"
 * "shinydashboard"
 * "ggplot2"
-* "reshape"
+* "reshape2"
 
-Can be installed like this: install.packages(c("shiny", "shinydashboard", "ggplot2", "reshape"))
+Can be installed like this: install.packages(c("shiny", "shinydashboard", "ggplot2", "reshape2"))
 
 
 ## Running
