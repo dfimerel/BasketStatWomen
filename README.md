@@ -1,6 +1,6 @@
 # BasketStatWomen
 
-This is a simple shiny app for personal use (at the moment) showing some statistics for Women's 1st Basketball Division in Greece.
+This is a simple shiny app (for personal use) showing some statistics for Women's 1st Basketball Division in Greece.
 
 ## Installation
 
